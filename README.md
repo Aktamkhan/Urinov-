@@ -42,4 +42,4 @@ Bu — Oila Shifokorlik Punkti (OShP) uchun mo‘ljallangan veb-ilova. Ushbu ilo
 
 ### Muallif
 
-Ushbu ilova ChatGPT yordamida yaratildi.
+Ushbu ilova AkSoftUz yordamida yaratildi.
